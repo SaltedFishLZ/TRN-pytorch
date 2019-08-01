@@ -1,5 +1,11 @@
-pretrain/
-model/
+# multi-media files
+*.jpg
+*.mp4
+*.avi
+
+# model file
+*.pth
+*.pth.tar
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
