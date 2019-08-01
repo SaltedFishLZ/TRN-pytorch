@@ -10,7 +10,7 @@ ROOT_DATASET = 'video_datasets'
 def return_something(modality):
     filename_categories = 'something/category.txt'
     if modality == 'RGB':
-        root_data = '/data/vision/oliva/scratch/bzhou/video/something-something/20bn-something-something-v1'
+        root_data = '/rscratch/data/Sth-sth/Sth-sth-v1-jpg'
         #root_data = '/mnt/localssd1/bzhou/something/20bn-something-something-v1'
         filename_imglist_train = 'something/train_videofolder.txt'
         filename_imglist_val = 'something/val_videofolder.txt'

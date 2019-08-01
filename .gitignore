@@ -1,3 +1,6 @@
+pretrain/
+model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -85,6 +88,7 @@ celerybeat-schedule
 # virtualenv
 .venv
 venv/
+venv_*/
 ENV/
 
 # Spyder project settings
